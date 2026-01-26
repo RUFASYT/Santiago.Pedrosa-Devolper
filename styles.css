@@ -110,6 +110,7 @@ button{
     background: none;
     border: 1px solid #ccc;
     cursor: pointer;
+    color: #000;
 }
 
 body.dark{
