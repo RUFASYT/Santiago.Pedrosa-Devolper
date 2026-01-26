@@ -130,4 +130,7 @@ body.dark h2{
 body.dark #toggle-theme{
     color: #ccc;
 }
+body.dark #lang-toggle{
+    color: #ccc;
+}
 
