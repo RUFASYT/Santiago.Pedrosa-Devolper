@@ -111,6 +111,10 @@ button{
     border: 1px solid #ccc;
     cursor: pointer;
     color: #000;
+
+    -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 
 body.dark{
