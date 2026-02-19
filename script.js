@@ -35,9 +35,9 @@ const texts = {
     sobreText:"Software Developer com foco em criar APIs rápidas, seguras e escaláveis com HTML, CSS e JavaScript.",
     projetos: "Projetos",
     projeto1: "Projeto Alidata",
-    projetodesc1: "Este projeto foi realizado como forma de aprendizado e de projeto final de estagio na empresa Alidata.",
+    projetodesc1: "Este projeto foi realizado como forma de aprendizado e de projeto final de estágio na empresa Alidata.",
     projeto2: "Projeto Portfólio",
-    projetodesc2: "Em desenvolvimento.",
+    projetodesc2: "Brevemente",
     verProjeto: "Ver Projeto →",
     tecnologias: "Tecnologias",
     contato: "Contato"
@@ -51,7 +51,7 @@ const texts = {
     projeto1: "Alidata Project",
     projetodesc1: "This project was carried out as a form of learning and as a final internship project at Alidata.",
     projeto2: "Portfolio Project",
-    projetodesc2: "In development.",
+    projetodesc2: "Comming Soon",
     verProjeto: "View Project →",
     tecnologias: "Technologies",
     contato: "Contact"
